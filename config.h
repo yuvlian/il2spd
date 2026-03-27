@@ -4,7 +4,7 @@
 #include <windows.h>
 #include <stdbool.h>
 
-#define CONFIG_FILE "il2spd.ini"
+#define CONFIG_FILE "./il2spd.ini"
 
 typedef struct {
     float start_spd_val;
